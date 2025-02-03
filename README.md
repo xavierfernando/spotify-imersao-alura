@@ -1,1 +1,1 @@
-# spotify-imersao-alura
+# Imersão-front-end-alura
